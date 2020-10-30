@@ -13,7 +13,7 @@ tutorial: https://www.youtube.com/watch?v=w0tDDFip7KM
 
 # To Run this code:
 
-1. Download the yolov2.weights file: 
+1. Download the yolov2.weights, labels.txt, yolov2.cfg, text.jpg files: 
 
 2. Now run using the following command:
 
